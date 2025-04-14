@@ -1,1 +1,5 @@
-// Placeholder for en.default.json in locales
+{
+  "general": {
+    "welcome": "Welcome to our store"
+  }
+}
