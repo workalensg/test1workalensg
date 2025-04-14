@@ -1,0 +1,3 @@
+shopify auth --store=test1workalensg.myshopify.com
+
+shopify theme push --store=test1workalensg.myshopify.com
