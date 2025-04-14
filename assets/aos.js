@@ -1,1 +1,0 @@
-// Placeholder for aos.js in assets
